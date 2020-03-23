@@ -1,0 +1,2 @@
+add_lunch_combo omni_V230A-userdebug
+add_lunch_combo omni_V230A-eng
